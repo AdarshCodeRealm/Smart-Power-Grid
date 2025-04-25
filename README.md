@@ -2,7 +2,7 @@
 
 A comprehensive power grid monitoring system using ESP32, featuring real-time voltage monitoring, switch control, and data logging to MongoDB.
 
-![Project Overview](assets/project-overview.png)
+![Project Overview](assets/AdarshCodeRealm.jpg)
 
 ## Features
 
@@ -65,7 +65,7 @@ A comprehensive power grid monitoring system using ESP32, featuring real-time vo
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/smart-power-grid.git
+git clone https://github.com/AdarshCodeRealm/smart-power-grid.git
 cd smart-power-grid
 ```
 
@@ -179,4 +179,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 Your Name - your.email@example.com
-Project Link: [https://github.com/yourusername/smart-power-grid](https://github.com/yourusername/smart-power-grid)
+Project Link: [https://github.com/AdarshCodeRealm/smart-power-grid](https://github.com/AdarshCodeRealm/smart-power-grid)

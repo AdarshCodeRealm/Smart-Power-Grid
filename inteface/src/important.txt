@@ -1,0 +1,26 @@
+api key for google maps :  AIzaSyC6wU05SSJzFdrdn3Iq7yvDpPERO5VVEF0
+
+  <div className="fixed ">
+        <LoadScript googleMapsApiKey="AIzaSyC6wU05SSJzFdrdn3Iq7yvDpPERO5VVEF0">
+          <GoogleMap
+            mapContainerStyle={mapStyles}
+            zoom={10}
+            center={defaultCenter}
+          >
+            <Marker position={defaultCenter} />{" "}
+            <Marker lat="19.1890" log="77.2996" />
+          </GoogleMap>
+        </LoadScript>
+      </div>
+
+        const mapStyles = {
+    height: "100vh",
+    width: "100vw",
+    margin: "20px",
+  };
+  const defaultCenter = {
+    lat: 19.169815,
+    lng: 77.319717,
+  };
+
+  import { GoogleMap, LoadScript, Marker } from "@react-google-maps/api";

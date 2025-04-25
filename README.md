@@ -2,7 +2,7 @@
 
 A comprehensive power grid monitoring system using ESP32, featuring real-time voltage monitoring, switch control, and data logging to MongoDB.
 
-![Project Overview](assets/AdarshCodeRealm)
+![Project Overview](assets/IMG_20250425_105023.jpg)
 
 ## Features
 
